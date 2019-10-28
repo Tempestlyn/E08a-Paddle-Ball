@@ -1,4 +1,6 @@
 # E08a-Paddle-Ball
 
 
-Within this version, the paddle can move and the ball can bounce on the paddle and the walls.
+Updated to add tiles to the game. The ball destroys a tile when it hits one, and "dies" when it
+falls down to the bottom of the screen. 
+
